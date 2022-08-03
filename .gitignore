@@ -1,2 +1,5 @@
 hmdata/
 data1.txt
+articles.npy
+lgbm_model.pkl
+trainDF.pkl
