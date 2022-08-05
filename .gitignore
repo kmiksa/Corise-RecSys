@@ -3,3 +3,6 @@ data1.txt
 articles.npy
 lgbm_model.pkl
 trainDF.pkl
+log_mini.csv
+tf_mini.csv
+trainDF.pkl
